@@ -1,0 +1,58 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container
+{
+    margin: 10% 0px 0px 25% ;
+}
+table, th,td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table
+{
+    width: 60%;
+    height: 60%;
+   text-align: center;
+}
+.r_clr{
+    background-color: aqua;
+}
+.tam
+{
+    background-color: red;
+}
+.soc
+{
+    background-color: cornflowerblue;
+}
+.mat
+{
+    background-color: darkviolet;
+    
+}
+.phy
+{
+    background-color: dimgray;
+}
+.sci
+{
+    background-color: lawngreen;
+}
+.head
+{
+    background-color:#04AA6D;
+}
+.time
+{
+    background-color: crimson;
+}
+.row
+{
+    font-size: 20px;
+    background-color: dodgerblue;
+}
