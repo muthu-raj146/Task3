@@ -1,58 +1,60 @@
-*
-{
+* {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
-.container
-{
-    margin: 10% 0px 0px 25% ;
+
+.container {
+    margin: 10% 0px 0px 25%;
 }
-table, th,td
-{
+
+table,
+th,
+td {
     border: 1px solid black;
     border-collapse: collapse;
 }
-table
-{
+
+table {
     width: 60%;
     height: 60%;
-   text-align: center;
+    text-align: center;
 }
-.r_clr{
+
+.r_clr {
     background-color: aqua;
 }
-.tam
-{
+
+.tam {
     background-color: red;
 }
-.soc
-{
+
+.soc {
     background-color: cornflowerblue;
 }
-.mat
-{
+
+.mat {
     background-color: darkviolet;
-    
+
 }
-.phy
-{
+
+.phy {
     background-color: dimgray;
 }
-.sci
-{
+
+.sci {
     background-color: lawngreen;
 }
-.head
-{
-    background-color:#04AA6D;
+
+.head {
+    background-color: #04AA6D;
 }
-.time
-{
+
+.time {
     background-color: crimson;
 }
-.row
-{
+
+.row {
     font-size: 20px;
     background-color: dodgerblue;
 }
